@@ -9,7 +9,7 @@ This repository contains all of the source code (and gerber files for the PCB) w
 I started this project in order to introduce myself to building software for embedded systems. My goal was to create something that was relatively simple to complete, but was enough to challenge me in an area I haven't worked in before. The challenge was to write a bare-metal program in C that would be efficient and achieve the goal I had in mind for the end product. I chose the RP2040 microcontroller on the Raspbery Pi Pico development board for this project as there is a great C SDK that provides many useful tools, while still staying close to the metal.
 
 ## Demo
-[![Demo Video](https://youtu.be/UA-I9vfqD_w/0.jpg)](https://youtu.be/UA-I9vfqD_w)
+[![Demo Video](https://img.youtube.com/vi/UA-I9vfqD_w/0.jpg)](https://youtu.be/UA-I9vfqD_w)
 
 ## Hardware Components
 - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
